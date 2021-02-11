@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/hbaravalle/ui-notitas/issues"
   },
-  "homepage": "https://github.com/hbaravalle/ui-notitas#readme"
+  "homepage": "https://github.com/hbaravalle/ui-notitas#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
+  }
 }
